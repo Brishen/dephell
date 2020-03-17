@@ -64,7 +64,7 @@ setup(
         'dephell-setuptools>=0.2.1', 'dephell-shells>=0.1.3',
         'dephell-specifier>=0.1.7', 'dephell-venvs>=0.1.16',
         'dephell-versioning', 'jinja2', 'm2r', 'packaging',
-        'pip<=19.3.1,>=18.0', 'requests', 'ruamel.yaml', 'tomlkit', 'yaspin'
+        'pip>=18.0', 'requests', 'ruamel.yaml', 'tomlkit', 'yaspin'
     ],
     extras_require={
         "dev": [
